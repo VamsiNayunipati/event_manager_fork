@@ -5,7 +5,7 @@
 - [Issue 2](https://github.com/VamsiNayunipati/event_manager_fork/issues/2) - Problem and Solution, [Code Fix](https://github.com/VamsiNayunipati/event_manager_fork/commit/bbde77c5ce137e521aadd93fbac6f5deec0aff45)
 - [Issue 3](https://github.com/VamsiNayunipati/event_manager_fork/issues/3) - Problem and Solution, [Code Fix](https://github.com/VamsiNayunipati/event_manager_fork/commit/cf921abd768f06e6bd6b6aca76488d2836d2f215)
 - [Issue 4](https://github.com/VamsiNayunipati/event_manager_fork/issues/7) - Problem and Solution, [Code Fix](https://github.com/VamsiNayunipati/event_manager_fork/commit/be7339215a6c2dcd06a22b728f62e2c16937c837)
-- [Issue 5]() - Problem and Solution, [Code Fix]()
+- [Issue 5](https://github.com/VamsiNayunipati/event_manager_fork/issues/9) - Problem and Solution, [Code Fix](https://github.com/VamsiNayunipati/event_manager_fork/commit/f0330b5e430d99454ab0bdba422b808fa1b8fcaa)
 
 The 6th issue which is demonstrated in the video was resolved by Professor.
 
